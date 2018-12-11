@@ -1,12 +1,15 @@
 <?php
+namespace uisits\blackboardintegration;
+
 require_once 'HTTP/Request2.php';
-require_once 'classes/Availability.class.php';
-require_once 'classes/Constants.class.php';
-require_once 'classes/Contact.class.php';
-require_once 'classes/Name.class.php';
-require_once 'classes/Coursegrade.class.php';
-require_once 'classes/Score.class.php';
-require_once 'classes/Coursegradeentry.class.php';
+
+require_once 'Availability.class.php';
+require_once 'Constants.class.php';
+require_once 'Contact.class.php';
+require_once 'Name.class.php';
+require_once 'Coursegrade.class.php';
+require_once 'Score.class.php';
+require_once 'Coursegradeentry.class.php';
 
 class Rest {
 

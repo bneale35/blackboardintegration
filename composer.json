@@ -1,0 +1,21 @@
+{
+    "name": "uisits/blackboardintegration",
+    "description": "Package to allow interaction with Blackboard API",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "UISITS",
+            "email": "techsupport@uis.edu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "uisits\\blackboardintegration\\": "src/"
+        }
+    }
+}

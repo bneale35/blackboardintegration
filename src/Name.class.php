@@ -1,4 +1,5 @@
 <?php
+namespace uisits\blackboardintegration;
 class Name
 {
 	public $given = 'PHP';

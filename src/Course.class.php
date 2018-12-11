@@ -1,5 +1,5 @@
 <?php
-
+namespace uisits\blackboardintegration;
 class Course {
 	public $id = '';
 	public $externalId = 'BBDN-Java-PHP-Demo';

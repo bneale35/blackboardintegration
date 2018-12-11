@@ -1,4 +1,5 @@
 <?php
+
 namespace uisits\blackboardintegration;
 
 require_once 'HTTP/Request2.php';

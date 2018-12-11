@@ -1,4 +1,5 @@
 <?php
+namespace uisits\blackboardintegration;
 class Duration
 {
 	public $type = 'Continuous';

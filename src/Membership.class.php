@@ -1,5 +1,5 @@
 <?php
-
+namespace uisits\blackboardintegration;
 class Membership
 	{
 		public $userId = '';

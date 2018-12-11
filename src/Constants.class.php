@@ -1,4 +1,6 @@
 <?php
+namespace uisits\blackboardintegration;
+
 	class Constants {
 		//public $HOSTNAME = 'http://10.90.134.245:9876';
 		public $HOSTNAME = 'https://bbdev.uis.edu:443';

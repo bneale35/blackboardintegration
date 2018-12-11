@@ -1,4 +1,6 @@
 <?php
+namespace uisits\blackboardintegration;
+
 class Address
 {
 	public $street1 = '123 Main Street';

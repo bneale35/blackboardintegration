@@ -1,4 +1,5 @@
 <?php
+namespace uisits\blackboardintegration;
 class Contact
 {
 	public $homePhone = '2025551212';
